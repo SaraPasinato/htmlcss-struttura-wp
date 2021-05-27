@@ -11,7 +11,22 @@
     display: table;
 }
 
-/**/
+/*body*/
+body{
+    margin:20px auto; 
+    max-width: 900px;
+}
+/* header*/
+header{
+    height:100px;
+    margin-bottom: 20px;
+}
+
+/* section*/
+#first-section{
+    height: 300px;
+    margin-bottom:20px;
+}
 
 /* colors*/
 .pink{
