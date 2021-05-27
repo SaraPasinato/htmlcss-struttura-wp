@@ -22,12 +22,40 @@ header{
     margin-bottom: 20px;
 }
 
-/* section*/
-#first-section{
+/* sections*/
+
+.section{
     height: 300px;
-    margin-bottom:20px;
+    margin:20px 0px ;
+}
+/* section blue contents */
+.section-main{
+    height: 500px;
+    margin:20px 0px ;
+}
+#header-inside, footer{
+    height:50px;
+    margin-bottom: 10px;
 }
 
+.sidebar{
+    height: 420px;
+    width:20%;
+}
+
+main{
+    width: calc(59% - 11px);
+    margin: 0 10px;
+    height: 420px;
+}
+
+/* Float */
+.float-left{
+    float: left;
+}
+.float-right{
+    float:right;
+}
 /* colors*/
 .pink{
     background-color: #e674e8;
