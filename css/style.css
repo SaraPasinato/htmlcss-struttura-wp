@@ -24,12 +24,12 @@ header{
 
 /* sections*/
 
-.section{
+#first-section{
     height: 300px;
     margin:20px 0px ;
 }
 /* section blue contents */
-.section-main{
+#second-section{
     height: 500px;
     margin:20px 0px ;
 }
