@@ -1,0 +1,35 @@
+/* Default */
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+.clearfix::after{
+    content:'';
+    clear:both;
+    display: table;
+}
+
+/**/
+
+/* colors*/
+.pink{
+    background-color: #e674e8;
+}
+
+.yellow{
+    background-color: #e1d773;
+}
+
+.light-blue{
+    background-color: #a9cee8;
+}
+
+.blue{
+    background-color: #0082fd;
+}
+
+.purple{
+    background-color: #8800ff;
+}
