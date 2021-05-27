@@ -13,8 +13,8 @@
 
 /*body*/
 body{
-    margin:20px auto; 
-    max-width: 900px;
+    margin:0px auto; 
+    max-width: 70%;
 }
 /* header*/
 header{
@@ -33,7 +33,7 @@ header{
     height: 500px;
     margin:20px 0px ;
 }
-#header-inside, footer{
+#header-inside{
     height:50px;
     margin-bottom: 10px;
 }
@@ -47,6 +47,11 @@ main{
     width: calc(59% - 11px);
     margin: 0 10px;
     height: 420px;
+}
+
+/* Footer */
+footer{
+    height:50px;
 }
 
 /* Float */
