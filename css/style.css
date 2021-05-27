@@ -42,7 +42,7 @@ header{
     height: 420px;
     width:20%;
 }
-
+/*main in section-main*/
 main{
     width: calc(59% - 11px);
     margin: 0 10px;
