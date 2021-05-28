@@ -15,7 +15,7 @@
 body{
     margin:0px auto; 
     max-width: 70%;
-    max-height: 80%;
+   
 }
 /* header*/
 header{
@@ -45,6 +45,8 @@ header{
     height: 100%;
     width:  20%;
 }
+/* padding può essere usato al posto 
+    di  margin per non usare calc */
 /*main in section-main*/
 main{
     width: calc(60% - 10px);
